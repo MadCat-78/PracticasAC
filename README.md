@@ -51,19 +51,19 @@ RTL contiene:
 
 ## Autor
 
-**[Héctor Ventura Pérez]**
+**Héctor Ventura Pérez**
 
 ---
 
 ## Institución
 
-[Universidad de Guadalajara]
+Universidad de Guadalajara
 
 ---
 
 ## Periodo Académico
 
-[2026A]
+2026A
 
 ---
 
